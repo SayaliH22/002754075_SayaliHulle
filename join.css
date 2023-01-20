@@ -1,0 +1,33 @@
+.input_form {
+    border-radius: 5px;
+    padding: 10px;
+    border:0;
+  box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+.label {
+    font-size: 20px;
+}
+
+.submit_button {
+    background: #633502;
+    border-radius: 0px;
+    font-weight: 600;
+    line-height: 1.2;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s ease;
+    border: none;
+    margin-top: -70px;
+    margin-right: 110px;
+    cursor: pointer;
+    color: #fff;
+    width: 20rem;
+    height: 46px;
+    margin-left: 7%;
+   
+}
+.a{
+    color:black
+}
