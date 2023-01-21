@@ -38,7 +38,12 @@ p{
     padding-left: 25px;
     padding-right: 25px;
 }
+.video{
+margin: 0 auto;
+padding: center;
+text-align: center;
 
+}
 .row{
     display:flex;
     align-items:center;
@@ -185,7 +190,7 @@ title::after{
 }
 .footer-col-2 img{
     width: 180px;
-    margin-bottom: -20px;
+    margin-bottom: -10px;
     margin-right: -19px;
 }
 .footer-col-3, .footer-col-4{
