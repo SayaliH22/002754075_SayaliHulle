@@ -241,6 +241,7 @@ ul{
 }
 .form-btn{
     display: inline-block;
+    margin-top: 6rem;
 }
 .form-container{
     max-width: 300px;
